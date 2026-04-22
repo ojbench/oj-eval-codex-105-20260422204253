@@ -1,0 +1,17 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+code
+build/
+.vscode/
+.idea/
+*.o
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local tokens (should not be committed)
+.env
+.acmoj_token
